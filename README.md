@@ -1,0 +1,1 @@
+Contributing author on proof of concept overview of the Delta Strategy, an antifragile portfolio architecture designed for convex capital deployment under uncertainty. Internal white paper and executive doc remain confidential.
